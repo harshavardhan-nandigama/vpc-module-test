@@ -1,4 +1,4 @@
-# 🧪 VPC Module Test
+# VPC Module Test
 
 This repository is used to test and validate the **`terraform-aws-vpc`** module created for the **Roboshop project**. It provisions a sample VPC setup using the module and verifies that all components (VPC, subnets, routing, NAT, peering, etc.) work as expected.
 
@@ -11,7 +11,7 @@ vpc-module-test/
 ├── outputs.tf # Prints outputs like VPC ID and subnet IDs
 ├── README.md # This documentation file
 
-## 🔧 Terraform Commands to Run This Project
+##  Terraform Commands to Run This Project
 
 ```bash
 # 1️⃣ Initialize the working directory
